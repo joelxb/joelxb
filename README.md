@@ -1,4 +1,5 @@
-### Hi there 👋
+### IT Web student, Currently learning python, react and mastering html/css
+
 
 <!--
 **joelxb/joelxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
