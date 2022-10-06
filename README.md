@@ -1,7 +1,4 @@
-<img src="https://i.imgur.com/NCH1NdA.png" height="300" width="550" id="img">
-
-
-
+                                                                     
 ## Web programming student
 # Currently Learning:
 
